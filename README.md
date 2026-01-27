@@ -32,5 +32,3 @@
 ### Acknowledgments:
 - We are thankful to Tom Bradfer-Lawrence, Clementine Durand-Bessart, and Manuel Nogales for sharing datasets on seed-dispersal networks compiled by them. GM and JF were supported by SECIHTI postdoctoral grants. LVA, FV and WD thank the Instituto de Ecologia A.C. for continuous institutional support.
 
-* Please also check biendata.org ![bien](bien.png)
-
