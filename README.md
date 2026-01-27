@@ -18,28 +18,10 @@
 - There are two folders, data (which contain the data necessary to run the R codes) and code (which contain the R scripts).
 ﻿
 	* Data folder:
-		* 	`dataNOspecies.csv`: contains the columns
-		  	-  `ID` which has species ID codes
-			- `convex` which has the niche breadth calculations using the convex hull method
-			- `convex2` sqrt-root transformed convex
-			- `midX` and `midX` which have the centroid coordinates of species geographic ranges, in Mollweide projection
-			- `area` which has the geographic range area in km2
-			- `area10` log10-transformed area
-			- `region` defines the latitutinal zones, if the species range is located in tropical, temperate or in both tropical/temperate zones
-			- `band` which defines the longitudinal bands, if the species ranges is mostly in the America, Europe/Africa or Asia/Oceania
-			- `elevation` is the elevation at the centroid of the species ranges
-			- `higher_plant_group` is the taxonomic group, ferns and lycophytes, flowering plants, gymnosperms or bryophytes
-			- `family` is the botanical family
-			- `midX84` and `midX94` which have the centroid coordinates of species geographic ranges, in WGS84 projection
-			- `ele`  defines if the species is upland or lowland species, as set by the 1000 m.a.s.l. threshold
-			- `cLat`  defines the latitudinal bin every 5 degrees
-			- `source` only for tropical trees, indicates the dominance status, according to Cooper et al.2024 Nature Ecology and Evolution
-  			- `n` the number of occurrence of some species
-		    
-		
+		* 	Data will be available upon acceptance of this manuscript
 
 	* Code folder:
-	    * `Analysis_v20-01-26.R`: contains the codes to generate the figures and the results of the manuscript
+	    * `Analysis_v26-01-26.R`: contains the codes to generate the figures and the results of the manuscript
 
 * Software version:
    - R version 4.5.1 (2025-06-13 ucrt)
