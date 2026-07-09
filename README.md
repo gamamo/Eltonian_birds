@@ -19,14 +19,14 @@
 ﻿
 	* Data folder:
 		* 	`DataForAnalysis_v11jun26.csv`, with the following columns:
-    			* `Species`: Bird species
-    			* `plant_id`: Plant species
-    			* `database`: individual network identification
-    			* `ref`: Original reference from where the network was obtained
-    			* `interaction`: 1 if the bird and plant species interact with each other and 0 if not.
-    			* `lat` and `long`: latitude and longitude coordinates
-    			* `Trophic.niche`: Bird species diet, information obtained from AVONET
-    			* `Realm`: Biogegraphic realm affiliation of each species.
+    		* `Species`: Bird species
+			* `plant_id`: Plant species
+   			* `database`: individual network identification
+    		* `ref`: Original reference from where the network was obtained
+    		* `interaction`: 1 if the bird and plant species interact with each other and 0 if not.
+    		* `lat` and `long`: latitude and longitude coordinates
+    		* `Trophic.niche`: Bird species diet, information obtained from AVONET
+    		* `Realm`: Biogegraphic realm affiliation of each species.
     	
   		* 	AVONET and BIRDbase data can be found in the orginal publications - we are not allowed to share their data. The same applies to Holt et al. Biogeographic realms shapefile, which can downloaded from the original publication:
 
@@ -34,7 +34,7 @@
 			- Tobias, J. A., C. Sheard, A. L. Pigot, A. J. M. Devenish, J. Yang, F. Sayol, M. H. C. Neate-Clegg, N. Alioravainen, T. L. Weeks, R. A. Barber, and Others. 2022. AVONET: morphological, ecological and geographical data for all birds. Ecology letters 25:581–597. Wiley Online Library.
 			- Şekercioğlu, Ç. H., K. D. Kittelberger, F. M. M. Mota, A. N. Buxton, N. Orton, A. DeNiro, E. R. Buechley, J. J. Horns, J. D. Blount, J. Socci, and M. H. C. Neate-Clegg. 2025. BIRDBASE: A Global Dataset of Avian Biogeography, Conservation, Ecology and Life History Traits. Sci. Data 12:1558
 
-	* Code folder:
+	* Code file:
 	    * `DataAnalysis_v26jun26.R`: contains the codes to generate the figures and the results of the manuscript
 
 * Software version:
