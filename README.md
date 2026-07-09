@@ -19,6 +19,11 @@
 ﻿
 	* Data folder:
 		* 	DataForAnalysis_v11jun26.csv
+  		* 	AVONET and BIRDbase data can be found in the orginal publications - we are not allowed to share their data. The same applies to Holt et al. Biogeographic realms shapefile, which can downloaded from the original publication:
+
+		Holt, B. G., J.-P. Lessard, M. K. Borregaard, S. A. Fritz, M. B. Araújo, D. Dimitrov, P.-H. Fabre, C. H. Graham, G. R. Graves, K. A. Jønsson, and Others. 2013. An update of Wallace’s zoogeographic regions of the world. Science 339:74–78. American Association for the Advancement of Science.
+		Tobias, J. A., C. Sheard, A. L. Pigot, A. J. M. Devenish, J. Yang, F. Sayol, M. H. C. Neate-Clegg, N. Alioravainen, T. L. Weeks, R. A. Barber, and Others. 2022. AVONET: morphological, ecological and geographical data for all birds. Ecology letters 25:581–597. Wiley Online Library.
+		Şekercioğlu, Ç. H., K. D. Kittelberger, F. M. M. Mota, A. N. Buxton, N. Orton, A. DeNiro, E. R. Buechley, J. J. Horns, J. D. Blount, J. Socci, and M. H. C. Neate-Clegg. 2025. BIRDBASE: A Global Dataset of Avian Biogeography, Conservation, Ecology and Life History Traits. Sci. Data 12:1558
 
 	* Code folder:
 	    * `DataAnalysis_v11jun26.R`: contains the codes to generate the figures and the results of the manuscript
