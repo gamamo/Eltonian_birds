@@ -1,9 +1,9 @@
 ### This is the repository of the article:
 
-*Assessing the Eltonian shortfall for bird species in seed-dispersal networks*, to be submitted to the journal Biodiversity Informatics
+*Assessing the Eltonian shortfall for bird species in seed-dispersal networks*, in R1 review in the journal Biodiversity Informatics
 
 ### Citation: 
-- Moulatlet G.M., Falcão J.,  Arregoitia L.V., Mendes S.B., Dáttilo W., and Villalobos F.. Assessing the Eltonian shortfall for bird species in seed-dispersal networks. In prep.
+- Moulatlet G.M., Falcão J.,  Arregoitia L.V., Mendes S.B., Dáttilo W., and Villalobos F., Assessing the Eltonian shortfall for bird species in seed-dispersal networks. Submitted.
 ﻿
 ### Contact:
 - Gabriel M. Moulatlet (mandaprogabriel@gmail.com)
@@ -15,7 +15,7 @@
 - Gabriel M. Moulatlet (mandaprogabriel@gmail.com)
 ﻿
 ### Folders and files:
-- There is one data folder data and one code file.
+- There is one data folder and one code file.
 ﻿
 	* Data folder:
 		* 	`DataForAnalysis_v11jun26.csv`, with the following columns:
