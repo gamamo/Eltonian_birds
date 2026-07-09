@@ -14,7 +14,7 @@ library(flextable)
 
 # 1.1) Load the shape file of biogeographic realms ---------------------------------------------------------------
 # Load and do some fixing
-# This shapefile comes from Holt et al. 2013 Science - I cannot share it as it does not belongs to me
+# This shapefile comes from Holt et al. 2013 Science - I cannot share it as it does not belong to me
 
 realms <- vect("newRealms.shp") 
 realms <- realms[,"Realm"]
