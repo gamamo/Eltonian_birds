@@ -15,10 +15,19 @@
 - Gabriel M. Moulatlet (mandaprogabriel@gmail.com)
 ﻿
 ### Folders and files:
-- There are two folders, data (which contain the data necessary to run the R codes) and code (which contain the R scripts).
+- There is one data folder data and one code file.
 ﻿
 	* Data folder:
-		* 	DataForAnalysis_v11jun26.csv
+		* 	`DataForAnalysis_v11jun26.csv`, with the following columns:
+    			- `Species`: Bird species
+    			- `plant_id`: Plant species
+    			- `database`: individual network identification
+    			- `ref`: Original reference from where the network was obtained
+    			- `interaction`: 1 if the bird and plant species interact with each other and 0 if not.
+    			- `lat` and `long`: latitude and longitude coordinates
+    			- `Trophic.niche`: Bird species diet, information obtained from AVONET
+    			- `Realm`: Biogegraphic realm affiliation of each species.
+    	
   		* 	AVONET and BIRDbase data can be found in the orginal publications - we are not allowed to share their data. The same applies to Holt et al. Biogeographic realms shapefile, which can downloaded from the original publication:
 
 			- Holt, B. G., J.-P. Lessard, M. K. Borregaard, S. A. Fritz, M. B. Araújo, D. Dimitrov, P.-H. Fabre, C. H. Graham, G. R. Graves, K. A. Jønsson, and Others. 2013. An update of Wallace’s zoogeographic regions of the world. Science 339:74–78. American Association for the Advancement of Science.
