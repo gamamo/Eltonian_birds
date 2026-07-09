@@ -26,7 +26,7 @@
 			- Şekercioğlu, Ç. H., K. D. Kittelberger, F. M. M. Mota, A. N. Buxton, N. Orton, A. DeNiro, E. R. Buechley, J. J. Horns, J. D. Blount, J. Socci, and M. H. C. Neate-Clegg. 2025. BIRDBASE: A Global Dataset of Avian Biogeography, Conservation, Ecology and Life History Traits. Sci. Data 12:1558
 
 	* Code folder:
-	    * `DataAnalysis_v11jun26.R`: contains the codes to generate the figures and the results of the manuscript
+	    * `DataAnalysis_v26jun26.R`: contains the codes to generate the figures and the results of the manuscript
 
 * Software version:
    - R version 4.5.1 (2025-06-13 ucrt)
