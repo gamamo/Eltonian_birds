@@ -19,14 +19,14 @@
 ﻿
 	* Data folder:
 		* 	`DataForAnalysis_v11jun26.csv`, with the following columns:
-    			- `Species`: Bird species
-    			- `plant_id`: Plant species
-    			- `database`: individual network identification
-    			- `ref`: Original reference from where the network was obtained
-    			- `interaction`: 1 if the bird and plant species interact with each other and 0 if not.
-    			- `lat` and `long`: latitude and longitude coordinates
-    			- `Trophic.niche`: Bird species diet, information obtained from AVONET
-    			- `Realm`: Biogegraphic realm affiliation of each species.
+    			* `Species`: Bird species
+    			* `plant_id`: Plant species
+    			* `database`: individual network identification
+    			* `ref`: Original reference from where the network was obtained
+    			* `interaction`: 1 if the bird and plant species interact with each other and 0 if not.
+    			* `lat` and `long`: latitude and longitude coordinates
+    			* `Trophic.niche`: Bird species diet, information obtained from AVONET
+    			* `Realm`: Biogegraphic realm affiliation of each species.
     	
   		* 	AVONET and BIRDbase data can be found in the orginal publications - we are not allowed to share their data. The same applies to Holt et al. Biogeographic realms shapefile, which can downloaded from the original publication:
 
