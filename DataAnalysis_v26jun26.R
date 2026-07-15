@@ -11,6 +11,7 @@ library(rnaturalearth)
 library(ggrepel)
 library(iNEXT)
 library(flextable)
+library(vegan)
 
 
 ## 1.2) Load the dataset --------------------------------------------------------
