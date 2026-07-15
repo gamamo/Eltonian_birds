@@ -18,7 +18,7 @@
 - There is one data folder and one code file.
 ﻿
 	* Data folder:
-		* 	`DataForAnalysis_v11jun26.csv`, with the following columns:
+		* 	`DataForAnalysis_v15jul26_encodingFix_utf_NoDupli.csv`, with the following columns:
     		* `Species`: Bird species
 			* `plant_id`: Plant species
    			* `database`: individual network identification
