@@ -1,6 +1,6 @@
 ### This is the repository of the article:
 
-*Assessing the Eltonian shortfall for bird species in seed-dispersal networks*, in R1 review in the journal Biodiversity Informatics
+*Assessing the Eltonian shortfall for bird species in seed-dispersal networks*, in R2 review in the journal Biodiversity Informatics
 
 ### Citation: 
 - Moulatlet G.M., Falcão J.,  Arregoitia L.V., Mendes S.B., Dáttilo W., and Villalobos F., Assessing the Eltonian shortfall for bird species in seed-dispersal networks. Submitted.
