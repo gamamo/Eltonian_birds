@@ -18,7 +18,7 @@
 - There is one data folder and one code file.
 ﻿
 	* Data folder:
-		* 	`DataForAnalysis_v15jul26_encodingFix_utf_NoDupli.csv`, with the following columns:
+		* 	`DataForAnalysis_v21jul26_encodingFix_utf_NoDupli.csv`, with the following columns:
     		* `Species`: Bird species
 			* `plant_id`: Plant species
    			* `database`: individual network identification
@@ -37,7 +37,7 @@
 		* BirdLife species distribution polygons can be found at: https://datazone.birdlife.org/dataset-information
 
 	* Code file:
-	    * `DataAnalysis_v26jun26.R`: contains the codes to generate the figures and the results of the manuscript
+	    * `DataAnalysis_v21jul26.R`: contains the codes to generate the figures and the results of the manuscript
 
 * Software version:
    - R version 4.5.1 (2025-06-13 ucrt)
