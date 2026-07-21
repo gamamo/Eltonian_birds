@@ -27,6 +27,10 @@
     		* `lat` and `long`: latitude and longitude coordinates
     		* `Trophic.niche`: Bird species diet, information obtained from AVONET
     		* `Realm`: Biogegraphic realm affiliation of each species.
+      	* `Avonet_realmFixed.csv`, with the following columns:
+      		*`Species`: Bird species
+      	    *`Trophic.niche`: Bird species diet, information obtained from AVONET
+      	  	*`Realm`: Biogegraphic realm affiliation of each species.
     	
   		* 	AVONET and BIRDbase data can be found in the orginal publications - we are not allowed to share their data. The same applies to Holt et al. Biogeographic realms shapefile, which can downloaded from the original publication:
 
