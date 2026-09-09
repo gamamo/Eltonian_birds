@@ -40,6 +40,12 @@ wrld <- ne_countries(continent = c("africa","south america","asia","oceania","eu
                                    "north america"),
                      type = "countries")
 
+
+nets_map <- netsAna |> 
+  select(database,lat,lon ) |> 
+  distinct()
+nets_map <- vect(nets_map, geom=c("lon", "lat"), crs="EPSG:4326")
+
 m1 <- ggplot() +
   geom_spatvector(data=wrld, fill=NA)+
   geom_spatvector(data=realms, aes(fill=Realm))+
